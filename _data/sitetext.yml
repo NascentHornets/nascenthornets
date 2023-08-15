@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Services"
+  kinesio:
+    title: "La kinésiologie"
     text: "Lorem ipsum"
-    section: services
+    section: kinesio
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -31,16 +31,16 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  videos:
+    title: "Mes vidéos"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: videos
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
+  apropos:
+    title: "À propos"
     text: "Lorem ipsum timeline"
-    section: timeline
+    section: apropos
     # left is the default
     #start_align: "left"
     events:
@@ -68,11 +68,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
+  presentation:
+    title: "Qui suis-je ?"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    section: presentation
 
   clients:
     section: clients
